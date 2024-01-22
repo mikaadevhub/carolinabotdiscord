@@ -1,6 +1,6 @@
-## Sobre a Carolina Bot
+## Sobre a Wanessa Bot
 
-Carolina Bot é uma bot de economia e utilidades com uma maneira simples de rastrear parcerias dentro do seu servidor ela possui mensagens personalizadas, contagem de parcerias, listas negras e muito mais!
+Wanessa Bot é uma bot de economia e utilidades e ela possui mensagens personalizadas, level, antilinks e muito mais!
 
 ## Política de Privacidade
 
