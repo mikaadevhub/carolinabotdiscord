@@ -1,12 +1,12 @@
-## Sobre a Wanessa Bot
+## Sobre a Yara Bot
 
-Wanessa Bot é uma bot de economia e utilidades e ela possui mensagens personalizadas, level, antilinks e muito mais!
+Yara Bot é uma bot de moderação e utilidades e ela possui mensagens personalizadas e muito mais!
 
 ## Política de Privacidade
 
 Você quer manter informações pessoais seguras e nossa equipe leva isso muito a sério queremos a proteção de nossos usuários.
 
-## Quais dados a Kaiya coleta 
+## Quais dados a Yara coleta 
 
 Coletamos do discord quando você interagi com nossa bot discord o seguinte dado:
 
